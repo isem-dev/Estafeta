@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Estafeta</string>
+    <string name="title_activity_details">Details</string>
+    <string name="photos">photos</string>
+    <string name="survey">survey conditions</string>
+</resources>
